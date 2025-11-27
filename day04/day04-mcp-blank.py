@@ -2,15 +2,25 @@ import requests
 import pandas as pd
 
 # TODO: Import fastmcp
+from mcp.server.fastmcp import FastMCP
 
 # Setup 
 # Open a terminal and type the following
 # source $HOME/.bashrc to set node environment
 
 # TODO: Create MCP server
+# FIX: jira-12345
+# Description: asdfasdf
+mcp = FastMCP('Crypto MCP')
 
-
+@mcp.tool()
 def get_crypto_price(crypto = 'bitcoin') -> str:
+  """ 
+  Get the current price of a crypto currency
+
+  Args:
+    crypto: crypto currency symbol eg. bitcoin, ethereum, solana
+  """
   currency = 'sgd'
   url = "https://api.coingecko.com/api/v3/simple/price"
   params = { "ids": crypto.lower(), "vs_currencies": currency}
@@ -26,7 +36,10 @@ def get_crypto_price(crypto = 'bitcoin') -> str:
   except Exception as e:
     return f"Error fetching crypto: {e}"
 
+#print(get_crypto_price('ethereum'))
 
 # TODO: Start the server
+if __name__ == "__main__":
+  mcp.run()
 
 
