@@ -421,7 +421,7 @@ B 1 and 2 only
 C 1 and 3 only 
 D 2 and 3 only 
 
-====
+==[DELIMITER]==
 
 31. Measles vaccination was introduced to children during a measles epidemic. It was later 
 discovered that vaccinated children were more likely to survive childhood than 

@@ -1,0 +1,74 @@
+An unknown organism has a linear double-stranded DNA genome like that in a
+eukaryote. When its DNA replication was examined, it was revealed that although the
+process is semi-conservative, no Okazaki fragments were observed in the multiple
+replication forks. In addition, the end-replication problem of shortened daughter strands
+was not observed. 
+What correctly explains this phenomenon?
+[OPTION] The organism’s DNA is antiparallel.
+[OPTION] DNA replication only starts at the 3’ end of each template strand.
+[OPTION] DNA polymerases synthesise DNA in both 5’ to 3’ and 3’ to 5’ direction.
+[OPTION] DNA ligases are not involved in the DNA replication process.
+
+==[DELIMITER]==
+
+Is this statement about tRNA true or false? 
+[TRUTH] True
+[STATEMENT] There is a binding site for the attachment of a specific amino acid, as well as a
+different binding site for the attachment to the ribosome, in order to allow
+translation to occur.
+[STATEMENT] There is a ribose-phosphate backbone with strong covalent phosphoester bonds
+and areas within the polynucleotide chain where base-pairing by hydrogen
+bonding occurs.
+[STATEMENT] There is a section known as an anticodon that contains the same triplet of bases
+as the triplet of DNA bases that has been transcribed to produce the mRNA
+codon.
+[STATEMENT] There is a specific enzyme to load each tRNA with its respective amino acid.
+[OPTION] 1 and 2 only
+[OPTION] 2 and 3 only
+[OPTION] 1, 2 and 3
+[OPTION] 1, 2 and 4 
+
+==[DELIMITER]==
+
+A segment of an mRNA sequence bearing a point mutation is shown. What is the
+sequence of the corresponding DNA coding strand prior to the mutation?
+5’-ACCGUAGCAGCU-3’
+[OPTION] 5’-AGCTGCTACGGT-3’
+[OPTION] 5’-ACCGTAGCAGCT-3’
+[OPTION] 5’-ACCGGAGCAGCT-3’
+[OPTION] 5’-AGCTGCTCCGGT-3’
+
+==[DELIMITER]==
+
+Is this statement about eukaryotic gene expression true or false?
+[TRUTH] True
+[STATEMENT]  By binding to the 5’ UTR of an mRNA, a translational regulatory protein blocks the
+initiation of translation.
+[STATEMENT]  Having a relatively shorter mRNA half-life allows more rapid control of gene
+expression at the translational level.
+[STATEMENT]  Different transcription factors help the same RNA polymerase recognise different
+promoters.
+[STATEMENT] By binding to the 3’ UTR of the mRNA, a translational regulatory protein increases
+the stability of an mRNA.
+[OPTION] 1 only
+[OPTION] 1 and 3
+[OPTION] 2 and 4
+[OPTION] 1, 3 and 4
+
+==[DELIMITER]==
+
+Is this statement about transcription in eukaryotes true or false?
+[TRUTH] False
+[STATEMENT] Specific sequences found near the promoter may increase the affinity of RNA
+polymerase binding, thus increases the probability of forming transcription
+initiation complex.
+[STATEMENT] RNA polymerase, general transcription factors and specific transcription factors
+make up the transcription initiation complex.
+[STATEMENT] Specific transcription factors such as repressors bind to silencers to prevent
+assembly of the transcription initiation complex.
+[STATEMENT] The binding of enhancer proteins to activators results in enhanced rate of
+transcription.
+[OPTION] 1 and 2 only
+[OPTION] 1 and 3 only
+[OPTION] 2 and 4 only
+[OPTION] None of the above
