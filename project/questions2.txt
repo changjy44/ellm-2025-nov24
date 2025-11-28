@@ -1,9 +1,5 @@
-An unknown organism has a linear double-stranded DNA genome like that in a
-eukaryote. When its DNA replication was examined, it was revealed that although the
-process is semi-conservative, no Okazaki fragments were observed in the multiple
-replication forks. In addition, the end-replication problem of shortened daughter strands
-was not observed. 
-What correctly explains this phenomenon?
+An unknown organism has a linear double-stranded DNA genome like that in a eukaryote. When its DNA replication was examined, it was revealed that although the process is semi-conservative, no Okazaki fragments were observed in the multiple replication forks. In addition, the end-replication problem of shortened daughter strands was not observed. 
+Which statement correctly explains this phenomenon?
 [OPTION] The organism’s DNA is antiparallel.
 [OPTION] DNA replication only starts at the 3’ end of each template strand.
 [OPTION] DNA polymerases synthesise DNA in both 5’ to 3’ and 3’ to 5’ direction.
@@ -12,17 +8,11 @@ What correctly explains this phenomenon?
 ==[DELIMITER]==
 
 Which statements about tRNA are correct?
-[QUESTION] Is this statement about tRNA true or false? 
+[QUESTION] Is this statement about tRNA true or false?
 [TRUTH] True
-[STATEMENT] There is a binding site for the attachment of a specific amino acid, as well as a
-different binding site for the attachment to the ribosome, in order to allow
-translation to occur.
-[STATEMENT] There is a ribose-phosphate backbone with strong covalent phosphoester bonds
-and areas within the polynucleotide chain where base-pairing by hydrogen
-bonding occurs.
-[STATEMENT] There is a section known as an anticodon that contains the same triplet of bases
-as the triplet of DNA bases that has been transcribed to produce the mRNA
-codon.
+[STATEMENT] There is a binding site for the attachment of a specific amino acid, as well as a different binding site for the attachment to the ribosome, in order to allow translation to occur.
+[STATEMENT] There is a ribose-phosphate backbone with strong covalent phosphoester bonds and areas within the polynucleotide chain where base-pairing by hydrogen bonding occurs.
+[STATEMENT] There is a section known as an anticodon that contains the same triplet of bases as the triplet of DNA bases that has been transcribed to produce the mRNA codon.
 [STATEMENT] There is a specific enzyme to load each tRNA with its respective amino acid.
 [OPTION] 1 and 2 only
 [OPTION] 2 and 3 only
@@ -31,8 +21,7 @@ codon.
 
 ==[DELIMITER]==
 
-A segment of an mRNA sequence bearing a point mutation is shown. What is the
-sequence of the corresponding DNA coding strand prior to the mutation?
+A segment of an mRNA sequence bearing a point mutation is shown. What is the sequence of the corresponding DNA coding strand prior to the mutation?
 5’-ACCGUAGCAGCU-3’
 [OPTION] 5’-AGCTGCTACGGT-3’
 [OPTION] 5’-ACCGTAGCAGCT-3’
@@ -44,14 +33,10 @@ sequence of the corresponding DNA coding strand prior to the mutation?
 Which of the following statement(s) about eukaryotic gene expression is true?
 [QUESTION] Is this statement about eukaryotic gene expression true or false?
 [TRUTH] True
-[STATEMENT]  By binding to the 5’ UTR of an mRNA, a translational regulatory protein blocks the
-initiation of translation.
-[STATEMENT]  Having a relatively shorter mRNA half-life allows more rapid control of gene
-expression at the translational level.
-[STATEMENT]  Different transcription factors help the same RNA polymerase recognise different
-promoters.
-[STATEMENT] By binding to the 3’ UTR of the mRNA, a translational regulatory protein increases
-the stability of an mRNA.
+[STATEMENT]  By binding to the 5’ UTR of an mRNA, a translational regulatory protein blocks the initiation of translation.
+[STATEMENT]  Having a relatively shorter mRNA half-life allows more rapid control of gene expression at the translational level.
+[STATEMENT]  Different transcription factors help the same RNA polymerase recognise different promoters.
+[STATEMENT] By binding to the 3’ UTR of the mRNA, a translational regulatory protein increases the stability of an mRNA.
 [OPTION] 1 only
 [OPTION] 1 and 3
 [OPTION] 2 and 4
@@ -59,19 +44,330 @@ the stability of an mRNA.
 
 ==[DELIMITER]==
 
-Which of the following statements about transcription in eukaryotes are incorrect?
+Which of the following statements about transcription in eukaryotes are incorrect.
 [QUESTION] Is this statement about transcription in eukaryotes true or false?
 [TRUTH] False
-[STATEMENT] Specific sequences found near the promoter may increase the affinity of RNA
-polymerase binding, thus increases the probability of forming transcription
-initiation complex.
-[STATEMENT] RNA polymerase, general transcription factors and specific transcription factors
-make up the transcription initiation complex.
-[STATEMENT] Specific transcription factors such as repressors bind to silencers to prevent
-assembly of the transcription initiation complex.
-[STATEMENT] The binding of enhancer proteins to activators results in enhanced rate of
-transcription.
+[STATEMENT] Specific sequences found near the promoter may increase the affinity of RNA polymerase binding, thus increases the probability of forming transcription initiation complex.
+[STATEMENT] RNA polymerase, general transcription factors and specific transcription factors make up the transcription initiation complex.
+[STATEMENT] Specific transcription factors such as repressors bind to silencers to prevent assembly of the transcription initiation complex.
+[STATEMENT] The binding of enhancer proteins to activators results in enhanced rate of transcription.
 [OPTION] 1 and 2 only
 [OPTION] 1 and 3 only
 [OPTION] 2 and 4 only
 [OPTION] None of the above
+
+==[DELIMITER]==
+
+In a mammalian species, the inheritance of skin colour is controlled by three pairs of genes, A/a, B/b and C/c, which are inherited independently. The genes for dark pigmentation A, B and C code for the production of about the same
+degree of pigmentation. If skin colour is proportional to the sum of the dominant alleles present, how many classes of skin colour would be expected from a mating between two individuals that are heterozygous at all three loci?
+[OPTION] 3
+[OPTION] 5
+[OPTION] 7
+[OPTION] 9
+
+==[DELIMITER]==
+
+Staphylococcus aureus is a common bacteria found on human skin. There are many strains of S. aureus. The antibiotic methicillin was used to treat infection by S. aureus. Now, there are at least 15 different strains of methicillin resistant S. aureus (MRSA). Which of the following are valid reasons for the emergence of 15 different strains of
+MRSA?
+[OPTION] Different mutations occur to the bacteria’s DNA when the bacteria are exposed to methicillin, thus becoming resistant.
+[OPTION] Some bacteria in the population of S. aureus had genes for enzymes which breakdown methicillin, before exposure to methicillin. 
+[OPTION] Different strains of MRSA emerged as a result of neutral selection.
+[OPTION] Bacteria cells undergo asexual reproduction, giving rise to a population of genetically identical cells.
+
+==[DELIMITER]==
+
+Given the context: The classification of the domestic horse, Equus ferus caballus and the Przewalski horse, Equus ferus przewalskii, is not fully established. They were considered to be members of the same species, but some evidence suggests
+that they should be classified as separate species. Extinct in the wild, Przewalski’s horse survived in zoos and has now been successfully reintroduced into the steppe area of Mongolia.
+Which statements would suggest that these two types of horse are members of the same
+species?
+[QUESTION] Does this statement suggest that these two types of horse are members of the same species?
+[TRUTH] True
+[STATEMENT] Domestic horses in the Mongolian steppe area are capable of interbreeding with the re-introduced Przewalski horse to produce fertile offspring.
+[STATEMENT] DNA testing suggests that the two types of horse diverge from wild horse ancestor at similar time.
+[STATEMENT] The diploid number of domestic horse is 64 and that of the Przewalski’s horse is 66.
+[STATEMENT] DNA testing has found few differences between the two types of horse.
+[OPTION] 1 and 2
+[OPTION] 1 and 4
+[OPTION] 2 and 4
+[OPTION] 3 and 4
+
+==[DELIMITER]==
+
+The human genome project (HGP) was successfully completed on 14 April 2003. Several ethical concerns were raised during the HGP. Which of the following is not an ethical concern of the HGP?
+[OPTION] Anxiety and frustration may arise in patients when genetic testing is conducted for diseases with no medical treatment currently available.
+[OPTION] If genetic sequences are patented, it will increase the cost of genetic research and treatment.
+[OPTION] Mankind is tampering with nature when the human genome is modified.
+[OPTION] The use of genetic test results may lead to discrimination of individuals by insurance companies and employers.
+
+==[DELIMITER]==
+
+What is the role of stem cells with regard to the function of adult tissues and organs?
+[OPTION] Stem cells are undifferentiated cells that divide asymmetrically, giving rise to one daughter cell that remains a stem cell and one daughter that will differentiate to replace damaged and worn out cells in the adult tissue or organ.
+[OPTION] Stem cells are embryonic cells that persist in the adult, and can give rise to all of the cell types in the body.
+[OPTION] Stem cells are undifferentiated cells that have expressed the genes and produced proteins characteristic of their differentiated state for repair of tissues and organs.
+[OPTION] Stem cells are fully differentiated cells that reside under the surface of epithelial tissue, in position to take over the function of the tissue when the overlying cells become damaged or worn out.
+
+==[DELIMITER]==
+
+The development of genetically modified organisms (GMO) has conferred many benefits and advantages to mankind. However, there are many who are still sceptical of GMOs. 
+Which of the following is not a reason for opposing the use of GMOs?
+[OPTION] Genetically modified herbicide-resistant crops may result in the excessive use of herbicides by farmers, hence polluting the agricultural land and surrounding waterways.
+[OPTION] Genetically modified Bt corn will only kill the European corn borers that feed on them.
+[OPTION] Genetically modified salmon, if accidentally released into the wild, may outcompete local resident salmon fish populations, and lead to decreased biodiversity.
+[OPTION] The antibiotic-resistant marker gene used in genetically modified tomatoes Flavr Savr may be taken up by bacteria through transformation process, hence leading to an increase in antibiotic-resistant bacteria harmful to mankind.
+
+==[DELIMITER]==
+
+Which of the following are necessary for tumourgenesis to occur?
+[QUESTION] Is this statement about tumourgenesis true or false?
+[TRUTH] True
+[STATEMENT] Gain of function mutation to proto-oncogenes
+[STATEMENT] Loss of function mutation of tumour suppressor genes
+[STATEMENT] Inactivation of telomerase enzymes preventing cell apoptosis
+[STATEMENT] Production of chemical factors that induce angiogenesis
+[OPTION] 1 only
+[OPTION] 1 and 2 only
+[OPTION] 1, 2 and 3 only
+[OPTION] All of the above
+
+==[DELIMITER]==
+
+Which statements about viruses are true?
+[QUESTION] Is this statement about viruses true or false?
+[TRUTH] True
+[STATEMENT] They encode genes for synthesising their own ATP.
+[STATEMENT] They are single-cell organisms.
+[STATEMENT] They can have genomes made of DNA.
+[STATEMENT] They package ribosomes into their virion.
+[STATEMENT] They can have a single-stranded or double-stranded RNA genomes.
+[STATEMENT] They can have a membrane-like envelope.
+[OPTION] 5 and 6 only
+[OPTION] 3, 5 and 6
+[OPTION] 1, 3, 5 and 6
+[OPTION] All of the above
+
+==[DELIMITER]==
+
+Which of the following statements about the lac operon are correct?
+[QUESTION] Is this statement about the lac operon true or false?
+[TRUTH] True
+[STATEMENT] lac Z, lac Y and lac A are structural genes that will be expressed when the operator is switched on.
+[STATEMENT] In the absence of alloactose, the repressor protein will be unable to bind to the operator.
+[STATEMENT] When glucose and lactose are available and the repressor becomes inactive as allolactose binds to it.
+[STATEMENT] lac Y codes for a protein that increases uptake of lactose from environment.
+[STATEMENT] Catabolite activator protein binds to promoter to increase rate of transcription.
+[OPTION] 1 and 2
+[OPTION] 1 and 3
+[OPTION] 1, 2 and 5
+[OPTION] 3, 4 and 5
+
+==[DELIMITER]==
+
+A black-haired female rabbit was crossed with a white-haired male rabbit. Eight offspring were born. Two were white-haired males, two were white-haired females and all the others were black-haired females. What can be deduced about the inheritance of hair colour in rabbits?
+[OPTION] Hair colour is sex-linked in rabbits.
+[OPTION] The allele for black hair is dominant to the allele for white hair.
+[OPTION] The allele for white hair is dominant to the allele for black hair.
+[OPTION] The results of this cross are inconclusive.
+
+==[DELIMITER]==
+
+Two genes, Q and R, affect the size of the petals and the pigmentation of a flower. Gene Q has two alleles, QL and QA. The genotype QLQL produces large petals, QLQA produces small petals, and in QAQA, petals are absent. Gene R has two alleles. R produces a red pigment and is dominant over the allele r that produces no pigment. A plant that is heterozygous at both gene loci was selfed. How many different phenotypes will be observed in the next generation?
+[OPTION] 4
+[OPTION] 6
+[OPTION] 9
+[OPTION] 12
+
+==[DELIMITER]==
+
+The hormone insulin binds to the tyrosine kinase receptors and initiates various signal transduction pathways to generate cellular responses. Which of the following shows the correct sequence of events, following the binding of insulin to the receptor?
+1 phosphorylation of tyrosine residues
+2 signal amplification
+3 dimerisation of tyrosine kinase receptor
+4 signal transduction
+5 activation of transcription factors
+[OPTION] 1 -> 3 -> 2 -> 4 -> 5
+[OPTION] 3 -> 4 -> 1 -> 2 -> 5
+[OPTION] 1 -> 3 -> 5 -> 4 -> 2
+[OPTION] 3 -> 1 -> 4 -> 2 -> 5
+
+==[DELIMITER]==
+
+Which statements correctly describe lymphocytes?
+[QUESTION] Is this statement about lymphocytes true or false?
+[TRUTH] True
+[STATEMENT] Each B lymphocyte has the ability to make several types of antibody molecules.
+[STATEMENT] Some B lymphocytes and T lymphocytes become memory cells.
+[STATEMENT] Plasma cells secrete antibodies into the blood plasma.
+[STATEMENT] Some T lymphocytes stimulate macrophages to kill infected cells.
+[OPTION] 1, 2, 3 and 4
+[OPTION] 1, 2 and 3 only
+[OPTION] 2, 3 and 4 only
+[OPTION] 1 and 4 only
+
+==[DELIMITER]==
+
+Given the context: Myxomatosis is a viral disease of rabbits. It spreads rapidly and most rabbits die within 14 days of being infected. Myxomatosis has been deliberately used to reduce the number of rabbits in countries where they are a significant crop pest. The initial release of the virus caused populations to fall by over 90%. Resistance to myxomatosis increased in the 70 years following initial release, so at the present time up to 50% of infected rabbits are able to survive. Which of the following statements could explain the increasing frequency of resistance to myxomatosis in the years following release of the virus?
+[QUESTION] Does this statement explain the increasing frequency of resistance to myxomatosis in the years following release of the virus?
+[TRUTH] True
+[STATEMENT] In populations with high incidences of myxomatosis, mutations leading to resistance are more likely to occur.
+[STATEMENT] Infected rabbits die quickly, hence the alleles that code for myxomatosis are eliminated from the population.
+[STATEMENT] The initial release of the virus led to a bottleneck event, greatly altering the frequency of alleles in rabbit populations.
+[STATEMENT] During disease outbreaks there is greater food availability for the surviving rabbits, increasing the probability that they survive.
+[OPTION] 4 only
+[OPTION] 1 and 2 only
+[OPTION] 2 and 4 only
+[OPTION] 2, 3 and 4 only
+
+==[DELIMITER]==
+
+Bread contains a protein known as gluten.
+Some features of the structure of gluten are listed below.
+1 Short α-helical sections are present in both polypeptides because of their high proline content.
+2 Intermolecular bonds form between different polypeptides.
+3 Up to 45% of the amino acids in both polypeptides are glutamine.
+4 Hydrophobic amino acids such as glutamine and proline are not found on the surface of gluten proteins.
+Which row correctly links each of the stated feature to its level of protein structure?
+primary structure | secondary structure | tertiary structure | quaternary structure
+[OPTION] 4 1 3 2
+[OPTION] 1 3 2 4
+[OPTION] 3 1 4 2
+[OPTION] 1 2 4 3
+
+==[DELIMITER]==
+
+Given the context: The structure of nucleic acids facilitates the accurate synthesis of proteins.  
+Which row describing the nucleic acid structure and its role is correct? 
+[QUESTION] Is this statement about the nucleic acid structure and its role true or false?
+[TRUTH] True
+structure | role 
+[OPTION] A mature mRNA has 997 nucleotides, including a 250-nucleotide poly-A-tail. | When translated, the polypeptide has a maximum number of 249 amino acids. 
+[OPTION] There are 61 different types of tRNA molecules, each with a different anti codon, present in each cell. | During elongation, the activated tRNA brings the correct amino acid to the A-site of the ribosome. 
+[OPTION] rRNA are single-stranded but can fold to form double-stranded regions via A-T and C-G base-pairing. | rRNA has both structural and enzymatic functions in the ribosome. 
+[OPTION] The hexose sugar in the DNA and RNA nucleotides are deoxyribose and ribose respectively. | Both have free 3’-hydroxyl groups that form phosphoester bonds with incoming nucleotides during condensation. 
+
+==[DELIMITER]==
+
+Which row correctly describes the effect of chromatin remodeling? 
+[QUESTION] Is this statement about the effect of chromatin remodeling true or false?
+[TRUTH] True
+process  | positive charges on histone tails | state of chromatin | density on electronmicrograph 
+[OPTION] histone deacetylation | decrease | heterochromatin | more dense 
+[OPTION] DNA methylation | no change | heterochromatin | less dense 
+[OPTION] histone acetylation | decrease | euchromatin | less dense 
+[OPTION] DNA demethylation | no change | euchromatin | more dense
+
+==[DELIMITER]==
+
+Which processes occur in bone marrow cells that are undergoing the mitotic cell cycle? 
+[QUESTION] Which statement tells the processes occur in bone marrow cells that are undergoing the mitotic cell cycle? 
+[TRUTH] True
+[STATEMENT] disassembly of tubulin dimers in microtubules 
+[STATEMENT] centromeres replicate and then separate 
+[STATEMENT] tRNA anticodons hydrogen bond with codons on mRNA 
+[STATEMENT] formation of cleavage furrow  
+[OPTION] 1, 2, 3 and 4 
+[OPTION] 1, 2 and 4 only 
+[OPTION] 1 and 3 only 
+[OPTION] 2 and 4 only 
+
+==[DELIMITER]==
+
+What is the role of stem cells in relation to tissues and organs in adults? 
+[OPTION] Stem cells that persist in the adult and can collectively give rise to almost all the cell types in the body. 
+[OPTION] Stem cells are relatively unspecialised cells that reside in all tissues and take over the function of the tissue when the cells become damaged or worn out. 
+[OPTION] Stem cells are pluripotent cells that divide asymmetrically, to replace damaged and worn-out cells in the adult tissue or organ. 
+[OPTION] Stem cells have highly methylated genome but can express all their genes to differentiate into any tissue and organ.
+
+==[DELIMITER]==
+
+Which statements apply to both influenza virus and HIV? 
+[QUESTION] Is this statement about both influenza virus and HIV true or false?
+[TRUTH] True
+[STATEMENT] Glycoprotein-mediated fusion of membranes result in the release of viral genome into host cells. 
+[STATEMENT] Proteins within the capsid uses RNA as templates for synthesis.   
+[STATEMENT] Location-specific evagination of host cell surface membrane initiates virion release. 
+[OPTION] 1, 2 and 3 
+[OPTION] 1 and 2 only 
+[OPTION] 1 and 3 only 
+[OPTION] 2 and 3 only 
+
+==[DELIMITER]==
+
+Which pair of option is true for both transduction and conjugation?  
+transduction | conjugation  
+[OPTION] transfer of bacterial DNA requires direct contact between bacteriophage and recipient cell |
+transfer of bacterial DNA requires direct contact between donor and recipient cell  
+[OPTION] only host DNA adjacent to prophage is transferred from donor cell to recipient cell in 
+specialised transduction lambda phage is involved in generalised transduction | both strands of the F plasmid are transferred from the donor cell to the recipient cell  
+[OPTION] lambda phage is involved in generalised transduction | T4 phage is involved  
+[OPTION] viral DNA is replicated via rolling circle mechanism in the donor cell | DNA on F plasmid is replicated via rolling circle mechanism in the donor cell
+
+==[DELIMITER]==
+
+Given the context: Pure breeding plants of contrasting traits were cross fertilised and the seeds were planted in pots of soil containing equal proportion of fertiliser. The pots were then exposed to different light conditions for 60 days. Throughout the investigation, the plants were watered with equal amount of water twice daily. At the end of the investigation, the plants’ height, length of leaves and colour of leaves were measured and summarised in the table below.  
+no light | dim light | bright light 
+height of plants / cm | 10.3 ± 0.3 | 8.1± 0.5 | 6.6 ± 0.4 
+length of leaves / cm | 1.7 ± 0.3  | 1.7± 0.2 | 1.6± 0.1 
+colour of leaves  yellow | pale green | dark green 
+Which option may be concluded from the information given? 
+[OPTION] The height of plants and colour of leaves exhibit continuous variation. 
+[OPTION] The additive effect of genes is responsible for the variation observed in the height of plants and length of leaves. 
+[OPTION] The genes involved in chlorophyll pigment synthesis are activated by light. 
+[OPTION] The colour of leaves is controlled by a single gene with multiple alleles.
+
+==[DELIMITER]==
+
+Insulin receptors are involved in cell signalling. 4 different mutant receptors, each with a single loss-of-function mutation affecting different domains of the receptor were produced. Various functional abilities of the wild type and mutants were tested, and the results were summarised in the table below. The signs “+” and “-” indicate the presence and absence 
+of the indicated functions respectively. 
+receptor subtype | binding of insulin | conformational change of receptor | auto phosphorylation | protein kinase activity 
+wild type | + | + | + | + 
+mutant 1  | + | + | + | - 
+mutant 2  | + | + | - | - 
+mutant 3  | + | - | - | - 
+mutant 4  | - | - | - | - 
+Based on the information given above, which of the option is false? 
+[OPTION] Mutant 2 receptors may lack tyrosine kinase domain.  
+[OPTION] Mutant 3 receptors are unable to dimerise to form activated receptors. - 
+[OPTION] Conformational changes in the receptor are necessary for autophosphorylation. 
+[OPTION] Protein kinase activity requires the binding of insulin.
+
+==[DELIMITER]==
+
+Given the context: Researchers investigated the genus Heliconius which contains more than 40 species of butterflies and found the following. 
+- H. cydno and H. melpomene produce fertile hybrid offspring, which after some generations of mating amongst themselves, forms H. heurippa. 
+- H. heurippa has an intermediate phenotype between the parental species, and prefer to mate with each other, rather than individuals of either parent species. 
+- Heliconius butterflies taste unpleasant to predators and its wing coloration acts as warnings to predators. Each individual predator has to learn which patterns to avoid. 
+- In the wild, Heliconius hybrids occur in small numbers and have patterns that do not resemble the established warning pattern of either parent species.  
+What may be concluded from the findings? 
+[QUESTION] Is this statement about the findings true or false?
+[TRUTH] True
+[STATEMENT] H. cydno and H. melpomene contain the same number of chromosomes.  
+[STATEMENT] Biological species concept was used to determine H. heurippa is a new species.  
+[STATEMENT] Competition is necessary for natural selection to take place. 
+[STATEMENT] Micro-evolution resulted in a change in allele frequency of the population over time. 
+[OPTION] 1 and 2 
+[OPTION] 1 and 4 
+[OPTION] 2 and 3 
+[OPTION] 3 and 4
+
+==[DELIMITER]==
+
+Which statements about sympatric speciation are correct? 
+[QUESTION] Is this statement about sympatric speciation true or false?
+[TRUTH] True
+[STATEMENT] Different selection pressures acting on different individuals in the same population in the absence of physical barriers.  
+[STATEMENT] Phenotypic variation in the immediate ancestral population is not necessary.  
+[STATEMENT] May result from physiological isolation mechanisms such as incompatibility of gametes or hybrid sterility. 
+[OPTION] 1, 2 and 3 
+[OPTION] 1 and 2 only 
+[OPTION] 1 and 3 only 
+[OPTION] 2 and 3 only 
+
+==[DELIMITER]==
+
+Measles vaccination was introduced to children during a measles epidemic. It was later discovered that vaccinated children were more likely to survive childhood than unvaccinated children, as the vaccine had given them protection against other pathogenic infections.   
+Which statement could account for this extra protection? 
+[OPTION] Memory cells confer natural active immunity to these other pathogenic infections.  
+[OPTION] Anti-measles antibodies secreted by plasma cells can bind to other antigens that resemble the measles antigens. 
+[OPTION] Memory cells undergo somatic recombination to produce plasma cells that can produce antibodies that recognise other antigens. 
+[OPTION] Memory cells differentiate into plasma cells that secrete more monoclonal antibodies.
