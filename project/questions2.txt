@@ -11,7 +11,8 @@ What correctly explains this phenomenon?
 
 ==[DELIMITER]==
 
-Is this statement about tRNA true or false? 
+Which statements about tRNA are correct?
+[QUESTION] Is this statement about tRNA true or false? 
 [TRUTH] True
 [STATEMENT] There is a binding site for the attachment of a specific amino acid, as well as a
 different binding site for the attachment to the ribosome, in order to allow
@@ -40,7 +41,8 @@ sequence of the corresponding DNA coding strand prior to the mutation?
 
 ==[DELIMITER]==
 
-Is this statement about eukaryotic gene expression true or false?
+Which of the following statement(s) about eukaryotic gene expression is true?
+[QUESTION] Is this statement about eukaryotic gene expression true or false?
 [TRUTH] True
 [STATEMENT]  By binding to the 5’ UTR of an mRNA, a translational regulatory protein blocks the
 initiation of translation.
@@ -57,7 +59,8 @@ the stability of an mRNA.
 
 ==[DELIMITER]==
 
-Is this statement about transcription in eukaryotes true or false?
+Which of the following statements about transcription in eukaryotes are incorrect?
+[QUESTION] Is this statement about transcription in eukaryotes true or false?
 [TRUTH] False
 [STATEMENT] Specific sequences found near the promoter may increase the affinity of RNA
 polymerase binding, thus increases the probability of forming transcription
